@@ -180,7 +180,7 @@ FACEREACTS = [
     "(｡◕‿◕｡)",
 ]
 RUNSREACTS = [
-    "`Runs to Thanos`",
+    "`Runs to Land`",
     "`Runs far, far away from earth`",
     "`Running faster than usian bolt coz I'mma Bot`",
     "`Runs to Marie`",
@@ -199,6 +199,11 @@ RAPE_STRINGS = [
      "`Rape coming... Raped! haha 😆`",
      "`Lodu Andha hai kya Yaha tera rape ho raha hai aur tu abhi tak yahi gaand mara raha hai lulz`",
      "`Ky Re Lodu Fat gyi ky😂`",
+     "`Tu Randi hai Sabko pta hai😂`",
+     "`Dekhle bhaiyya esa hai! jaat na jalao Gand maar lenge tumhari😂`",
+     "`Jaana chodu chad jake land chaat`",
+     "`Yaar ajab tere nkhare,gazab tera style hain, gand dhone ki tameez nahi, haath main mobile hai`",
+     "`Chodte Chodte Subah Ho Gyi L*nd Mein Pad Gaye Chale, Ch**t Fat Ke Gufa Ho Gyi, Wah Re Ch*dne Wale.`",
 ] 
 ABUSE_STRINGS = [
        "`Madharchod`",
@@ -207,6 +212,13 @@ ABUSE_STRINGS = [
 	   "`Ja be Gaandu`",
 	   "`Ma ka Bhodsa madharchod`",
 	   "`mml`",
+           "`Chal nikal chutiye😆`",
+           "`Arey bhopdike gand me chatta lega ki Dannda 😂`",
+           "`Kro Gandu giri kam nhi toh Gand Maar lenge tumhari hum😂`",
+           "`Suno Lodu Jyda muh na chalo be muh me lawda pel Diyaa jayega`",
+           "`Sharam aagyi toh aakhe juka lijia land me dam nhi hai apke toh Shilajeet kha lijia`",
+           "`Kahe Rahiman Kaviraaj Ch*Ot Ki Mahima Aisi,La*Nd Murjha Jaaye Par Ch*Ot Waisi Ki Waisi`",
+           "`Chudakkad Raand Ki Ch**T Mein Pele L*Nd Kabeer, Par Aisa Bhi Kya Choda Ki Ban Gaye Fakeer`",
 ]
 GEY_STRINGS = [
      "`you gey bsdk`",
