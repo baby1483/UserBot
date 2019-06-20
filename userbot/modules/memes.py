@@ -198,6 +198,7 @@ RAPE_STRINGS = [
      "`Relax your Rear, ders nothing to fear,The Rape train is finally here`",
      "`Rape coming... Raped! haha 😆`",
      "`Lodu Andha hai kya Yaha tera rape ho raha hai aur tu abhi tak yahi gaand mara raha hai lulz`",
+     "`Ky Re Lodu Fat gyi ky😂`",
 ] 
 ABUSE_STRINGS = [
        "`Madharchod`",
@@ -355,7 +356,7 @@ async def zal(zgfy):
 @register(outgoing=True, pattern="^hi$")
 async def hoi(hello):
     """ Greet everyone! """
-    await hello.edit("Hoi!😄")
+    await hello.edit("Hy gandu!😄")
                           
                           
 @register(outgoing=True, pattern="^.hack$")
@@ -365,7 +366,7 @@ async def hacking (hacked):
         if await hacked.get_reply_message():
             await hacked.edit(
                 "`Targeted Account Hacked successfully 😎......`\n"
-                "`Pay 6969$ to` @VVIIXXII `To Remove This Hack...`\n"
+                "`Pay 1001$ to` @anonycrew `To Remove This Hack...`\n"
             )
 
 
