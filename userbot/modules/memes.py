@@ -180,6 +180,7 @@ FACEREACTS = [
     "(｡◕‿◕｡)",
 ]
 RUNSREACTS = [
+    "`Ye Bedard Zamana Kya Jane, Kya Cheez Judayi Hoti Hai, Hum L*nd Pakad Kar Sote Hai, Ghar Ghar Me Ch*dai Hoti Hai`",
     "`Runs to Land`",
     "`Runs far, far away from earth`",
     "`Running faster than usian bolt coz I'mma Bot`",
