@@ -33,8 +33,6 @@ Please head to the wiki on instructions to setting it up!
 
 ### Credits:
 
-This is a fork from Balajimastro's Telegram-Userbot with some feature kanged from Yasir's repo and Noobvishal's repo.
-
 Thanks to the people who assisted Balajimastro throughout this project:
 
 
