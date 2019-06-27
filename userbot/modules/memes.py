@@ -367,7 +367,7 @@ async def hoi(hello):
     """ Greet everyone! """
     await hello.edit("Hy gandu!😄")
 			  
-@register(outgoing=True, pattern="^hi$")
+@register(outgoing=True, pattern="^land$")
 async def hoi(hello):
     """ Greet everyone! """
     await hello.edit("Nikal Laude Pehli Fursat Me Nikal!😎")			  
@@ -384,7 +384,7 @@ async def hacking (hacked):
             )
 
 
-@register(outgoing=True, pattern="^.owo(?: |$)(.*)")
+@register(outgoing=True, pattern="^.bskd(?: |$)(.*)")
 async def faces(owo):
     """ UwU """
     if not owo.text[0].isalpha() and owo.text[0] not in ("/", "#", "@", "!"):
