@@ -395,7 +395,7 @@ async def faces(owo):
         elif textx:
             message = textx.text
         else:
-            await owo.edit("` Nikal Luude Pehli Fursat Me Nikal Koi Jarurt Nhi Idhar Teri Bhosdike Pehli Fursat Me nikal! `")
+            await owo.edit("` Nikal Laude Pehli Fursat Me Nikal Koi Jarurt Nhi Idhar Teri Bhosdike Pehli Fursat Me nikal! `")
             return
 
         reply_text = re.sub(r"(r|l)", "w", message)
