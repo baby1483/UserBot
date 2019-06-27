@@ -366,6 +366,11 @@ async def zal(zgfy):
 async def hoi(hello):
     """ Greet everyone! """
     await hello.edit("Hy gandu!😄")
+			  
+@register(outgoing=True, pattern="^hi$")
+async def hoi(hello):
+    """ Greet everyone! """
+    await hello.edit("Nikal Laude Pehli Fursat Me Nikal!😎")			  
                           
                           
 @register(outgoing=True, pattern="^.hack$")
@@ -390,7 +395,7 @@ async def faces(owo):
         elif textx:
             message = textx.text
         else:
-            await owo.edit("` UwU no text given! `")
+            await owo.edit("` Nikal Luude Pehli Fursat Me Nikal Koi Jarurt Nhi Idhar Teri Bhosdike Pehli Fursat Me nikal! `")
             return
 
         reply_text = re.sub(r"(r|l)", "w", message)
