@@ -50,7 +50,7 @@ async def facepalm(e):
 async def _(event):
 	if event.fwd_from:
 		return
-	deq = deque(list("███▒▒▒▒▒▒▒50%██████████100%")
+	deq = deque(list("███▒▒▒▒▒▒▒50%██████████100%"))
 			  
 	for _ in range(32):
 		await asyncio.sleep(0.1)
@@ -188,6 +188,9 @@ CMD_HELP.update({
 })
 CMD_HELP.update({
     "moon": "Bot will send a cool moon animation."
+})
+CMD_HELP.update({
+    "hakii":"Bot will send Cool hakii animation."
 })
 CMD_HELP.update({
     "clock": "Bot will send a cool clock animation."
